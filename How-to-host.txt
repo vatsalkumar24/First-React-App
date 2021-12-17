@@ -1,0 +1,2 @@
+first create build folder using : npm run build-folder
+go to netlify.com->deploys and put your build folder using drag and drop
